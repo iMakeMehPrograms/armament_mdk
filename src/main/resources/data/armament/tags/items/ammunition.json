@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "armament:pistol_cartridge",
+        "armament:precision_cartridge",
+        "armament:intermediate_cartridge",
+        "armament:antimateriel_cartridge",
+        "armament:shotgun_shell"
+    ]
+}

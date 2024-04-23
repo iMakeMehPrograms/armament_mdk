@@ -1,0 +1,7 @@
+{
+    "itemGroup.armament": "Armament's Armory",
+
+    "item.armament.pistol_cartridge": "Pistol Round",
+    "item.armament.handgun": "Handgun",
+    "block.armament.ammo_box": "Ammo Box"
+}
